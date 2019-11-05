@@ -2,6 +2,7 @@ Rencana elerning Front end
 - Belajar tentang javascript
  * ES6
  * Framework Javascript
+- Struktur Data Dasar
 - CSS
 - HTML
 - Adobe XD Fullstack Designer
