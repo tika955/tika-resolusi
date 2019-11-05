@@ -2,5 +2,5 @@ Tika Resolusi
 - Konsisten Mengikuti e-learning tentang develop aplikasi (Web app + Mobile app) selama dua bulan sekali
 - Membuat banyak portfolio baik di front end mau pun menggunakan XD
 - Mengikuti komunitas front end atau yang berhubungan dengan dunia IT dan design yang ada di dalam maupun luar kota
-- Mulai mencoba menyalurkan ilmu (sampingan dosen)
 - Melanjutkan S2
+- Mulai mengeksplore lebih banyak lagi di dunia IT dengan cara mengikuti pelatihan tentang designer maupun fullstack
