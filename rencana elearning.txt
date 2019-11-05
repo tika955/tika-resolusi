@@ -3,6 +3,7 @@ Rencana elerning Front end
  * ES6
  * Framework Javascript
    ^ Vue
+   ^ React
 - Struktur Data Dasar
 - CSS
   ^ CSS3
