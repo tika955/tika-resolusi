@@ -1,0 +1,7 @@
+Rencana elerning Front end
+- Belajar tentang javascript
+ * ES6
+ * Framework Javascript
+- CSS
+- HTML
+- Adobe XD Fullstack Designer
