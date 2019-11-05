@@ -2,7 +2,10 @@ Rencana elerning Front end
 - Belajar tentang javascript
  * ES6
  * Framework Javascript
+   ^ Vue
 - Struktur Data Dasar
 - CSS
+  ^ CSS3
 - HTML
 - Adobe XD Fullstack Designer
+- Phyton
